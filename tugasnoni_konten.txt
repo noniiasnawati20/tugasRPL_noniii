@@ -2,5 +2,5 @@
 -membereskan tugas tugas yang blum selesai
  *seperti pelajaran umum
 -menambah nilai ulangan
- *menambah nilai ulangan yang masih kurang dengan menerima tugas
- *atau menambah dengan menyetor tugas
+ ^menambah nilai ulangan yang masih kurang dengan menerima tugas
+ ^atau menambah dengan menyetor tugas
