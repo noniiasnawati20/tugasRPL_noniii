@@ -3,4 +3,4 @@
  *seperti pelajaran umum
 -menambah nilai ulangan
  *menambah nilai ulangan yang masih kurang dengan menerima tugas
--memperbaiki nilai nilai yang kurang
+ *atau menambah dengan menyetor tugas
