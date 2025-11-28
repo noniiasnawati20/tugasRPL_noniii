@@ -2,4 +2,4 @@
 -membereskan tugas tugas yang blum selesai
  *seperti pelajaran umum
 -menambah nilai ulangan
--memperbaiki nilai nilai yang kurang
+ ^atau mengerjakan kembali soal
